@@ -13,7 +13,7 @@ export const config = {
   /** Optional profile image served from /public. Leave empty to hide. */
   profileImage: "/images/profile-2.jpeg",
   /** Canonical site URL. Replace after deployment. */
-  siteUrl: "https://your-portfolio-url.vercel.app",
+  siteUrl: "https://portfolio-beta-three-62.vercel.app",
 } as const;
 
 export const navLinks = [
